@@ -22,11 +22,7 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<!-- Icons -->
-		<link rel="shortcut icon" href="images/icons/favicon.ico">
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/icons/apple-touch-icon-144-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72-precomposed.png">
-		<link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon-57-precomposed.png">
+		<link rel="shortcut icon" href="/images/favicon.png">
 
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -36,7 +32,37 @@
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 </head>
-<body>
+<body id="main">
+
+	<!-- Menu -->
+	<div class="navbar">
+		<a name="about"></a>
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">IMITY.IO</a>
+			</div>
+			<div class="navbar-collapse collapse pull-right">
+				<ul class="nav navbar-nav">
+					<a class="navbar-brand" href="/">PROJECTS</a>
+					<!--<li>
+						<a href="/projects" property="dc:title">
+							Projects
+						</a>
+					</li>
+					<li>
+						<a href="/about" property="dc:title">
+							About
+						</a>
+					</li>-->
+				</ul>
+			</div><!--/.navbar-collapse -->
+		</div>
+	</div>
 
 	<!-- Content -->
 		<!-- Content -->
@@ -44,15 +70,6 @@
 			<%- @content %>
 		</section>
 
-
-	<footer>
-		<div class="container">
-			<div class="pull-right">
-				<a href="https://twitter.com/keikreutler" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
-				<a href="https://github.com/imity" target="_blank"><i class="fa fa-github fa-lg"></i></a>
-			</div>
-		</div>
-	</footer>
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>

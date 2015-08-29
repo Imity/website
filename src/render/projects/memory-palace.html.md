@@ -1,10 +1,10 @@
 ---
-layout: 'default'
+layout: 'project'
 ---
 
 ## Memory Palace ##  
 
-The Memory Palace is a virtual reality environment, an early maquette produced by Kei Kreutler and Ben Vickers for an alternative system that seeks to merge emergent virtual reality platforms with the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci), for the expressed purpose of enhancing, ensuring ownership and terraforming the scope of distributed collective memory.
+The Memory Palace is a virtual reality environment, produced by Kei Kreutler and Ben Vickers for an alternative system that seeks to merge online virtual reality platforms with the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci), for the expressed purpose of enhancing, ensuring ownership and terraforming the scope of distributed collective memory.
 
 
 *We live in an age in which we outsource our memories to vast warehouse complexes in the desert, archiving our past on platters of aluminium or glass and ceramic substrate.*

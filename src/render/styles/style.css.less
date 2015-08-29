@@ -1,11 +1,29 @@
 
 a, a:link {
-	cursor: pointer;	
+	cursor: pointer;
+	//color: #748f88;
+	color: #000;
+	font-weight: 500;
+}
+a:hover {
+	text-decoration: none;
+	color: #748f88;
 }
 
 
 body {
 	font-family: 'Open Sans';
+}
+
+p {
+	font-size: 13px;
+}
+
+body#main {
+    background-image: url('/images/water_running.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 	
 }
 
 table {
@@ -18,7 +36,7 @@ table {
 footer {
 	//background: url("/images/footer.jpg") no-repeat right top;
 	//height: 150px;
-	opacity: .7;
+	height: 75px;
 	a, a:hover {
 		color: #000;
 		text-decoration: none;
@@ -41,18 +59,35 @@ footer {
 	margin: 0;
 	border-radius: 0;
 	text-transform: uppercase;
-	height: 10vh;
+	padding-right: 0;
+	border-top: 10px #000 solid;
+}
+.navbar-brand {
+	padding-right: 0;
+}
+.navbar-collapse {
+	padding: 0;
 }
 .navbar-inverse .navbar-nav > li > a {
 	color: #FFF;
+	padding-right: 0;
+}
+.navbar-inverse .navbar-nav > li {
+	padding-right: 0;	
 }
 .navbar-inverse .navbar-brand {
 	color: #FFF;
+}
+.nav > li > a {
+	padding: 10px 0px 10px 10px;
 }
 
 /***************
 HOME
 ***************/
+#current-projects {
+	text-align: right;
+}
 section {
 	.container {
 		padding: 20px 0;
@@ -67,13 +102,13 @@ section.about {
 	}
 }
 section.services {
-	background: #d9f5de;
+	// background: #d9f5de;
 	a {
 		h4 {
-			color: #748f88;
+			color: #000; //#748f88;
 			text-transform: uppercase;
 			text-align: center;
-			text-shadow: 1px 1px 1px #748f88;
+			//text-shadow: 1px 1px 1px #748f88;
 		}
 	}
 	a:hover {
@@ -89,7 +124,8 @@ section.projects {
 			max-width: 250px;
 			display: block;
 			margin: 0 auto;
-			box-shadow: 0px 0px 3px #748f88;
+			border-bottom: 5px #000 solid;
+			overflow: hidden;
 		}
 		h5 {
 			padding: 0px 0 10px 0px;
@@ -98,12 +134,12 @@ section.projects {
 		}
 	}
 	a {
-		color: #000 !important;
+		color: #000;
 		text-decoration: none;
 	}
 	a:hover {
 		opacity: .5;
-		color: #000 !important;
+		color: #000;
 		text-decoration: none;
 	}
 }
@@ -116,10 +152,59 @@ section.projects {
 }
 
 .project {
+	h2 {
+		margin-top: 0;
+		padding-top: 0;
+	}
+	.title {
+		margin-bottom: 50px;
+	}
 	.container {
 		padding: 50px 0;
 	}
+}
+.img-project {
+	float: right;
+	margin-left: 50px;
+}
+/**************
+Project slide decks
+**************/
+.carousel {
+	height: 400px;
+	width: 600px;
+	float: right;
+	margin: 0 0 50px 50px;
 	img {
-		float: right;
+		display: block;
+		margin: 0 auto;
+		min-height: 400px;
 	}
+}
+.carousel-item {
+	img {
+		width: 100%;
+	}
+	overflow: hidden;	
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+.carousel-caption {
+	z-index: 2000;
+	color: #000;
+	text-align: left;
+	margin-bottom: -200px;
+	left: 0;
+	right: auto;
+	display: inline;
+}
+
+.controls {
+	a, a:hover {
+		color: #000;
+		text-decoration: none;
+	}
+	float:right;
+	margin-top: 15px;
 }

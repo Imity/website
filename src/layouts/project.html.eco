@@ -24,7 +24,6 @@
 	<!-- Icons -->
 		<link rel="shortcut icon" href="/images/favicon.png">
 
-
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -65,10 +64,13 @@
 		</div>
 	</div>
 
-	<!-- Content -->
+
 		<!-- Content -->
-		<section id="content" class="content">
-			<%- @content %>
+		<section id="content" class="content project">
+			<!-- Content -->
+			<div class="container">
+				<%- @content %>
+			</div>
 		</section>
 
 	<!-- Scripts -->

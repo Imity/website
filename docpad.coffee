@@ -23,12 +23,12 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-				
+					Imity LTD is a research and consultancy company working at the intersection of art, technology and speculative, networked design.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-					virtual reality, augmented reality, quantified self, alternative communities, network, grassroots, future, deep future, web design, web development, the fish
+					virtual reality, augmented reality, quantified self, alternative communities, network, grassroots, future, deep future, web design, web development, lines in the sand, extinction, otherkin, blockchain, mapping, open source, research
 				"""
 
 			# The website author's name
