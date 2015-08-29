@@ -19,13 +19,13 @@ layout: 'main'
 		<div class="col-sm-3 col-sm-offset-6" id="current-projects">
 			<p>
 				[unMonastery](/projects/unmonastery)  
+				[EXTINCT.LY](/projects/extinctly)  
 				[PROX.IMITY.IO](/projects/proximity)  
-				[Second Foundation](/projects/secondfoundation)  
 				[TransforMap](/projects/transformap)  
+				[Second Foundation](/projects/second-foundation)  
 				[Questio.nl](/projects/questionl)  
 				[Memory Palace](/projects/memory-palace)  
 				[AffectiveKit](/projects/affectivekit)  
-				[EXTINCT.LY](/projects/extinctly)  
 			<p>
 			<p>
 				CV
