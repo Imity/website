@@ -1,0 +1,125 @@
+
+a, a:link {
+	cursor: pointer;	
+}
+
+
+body {
+	font-family: 'Open Sans';
+}
+
+table {
+	tfoot, tbody {
+		th {
+			border-top: 1px solid #DDD;
+		}
+	}
+}
+footer {
+	//background: url("/images/footer.jpg") no-repeat right top;
+	//height: 150px;
+	opacity: .7;
+	a, a:hover {
+		color: #000;
+		text-decoration: none;
+	}
+	i {
+		padding-left: 10px;
+		padding-top: 25px;
+	}
+}
+
+.container {
+	width: 75%;
+	display: block;
+	margin: auto;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.navbar {
+	margin: 0;
+	border-radius: 0;
+	text-transform: uppercase;
+	height: 10vh;
+}
+.navbar-inverse .navbar-nav > li > a {
+	color: #FFF;
+}
+.navbar-inverse .navbar-brand {
+	color: #FFF;
+}
+
+/***************
+HOME
+***************/
+section {
+	.container {
+		padding: 20px 0;
+	}
+}
+section.about {
+	background: #000;
+	width: 100%;
+	p {
+		color: #FFF;
+		margin: 50px 0;
+	}
+}
+section.services {
+	background: #d9f5de;
+	a {
+		h4 {
+			color: #748f88;
+			text-transform: uppercase;
+			text-align: center;
+			text-shadow: 1px 1px 1px #748f88;
+		}
+	}
+	a:hover {
+		text-decoration: none;
+	}
+}
+section.projects {
+	.col-sm-4 {
+		margin: 25px 0;
+		img {
+		}
+		.caption {
+			max-width: 250px;
+			display: block;
+			margin: 0 auto;
+			box-shadow: 0px 0px 3px #748f88;
+		}
+		h5 {
+			padding: 0px 0 10px 0px;
+			text-align: center;
+			text-transform: uppercase;
+		}
+	}
+	a {
+		color: #000 !important;
+		text-decoration: none;
+	}
+	a:hover {
+		opacity: .5;
+		color: #000 !important;
+		text-decoration: none;
+	}
+}
+.img-water {
+	display: block;
+	margin: auto;
+	height: 90vh;
+	width: auto;
+	z-index: 10000;
+}
+
+.project {
+	.container {
+		padding: 50px 0;
+	}
+	img {
+		float: right;
+	}
+}

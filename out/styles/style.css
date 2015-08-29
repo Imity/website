@@ -1,0 +1,104 @@
+a,
+a:link {
+  cursor: pointer;
+}
+body {
+  font-family: 'Open Sans';
+}
+table tfoot th,
+table tbody th {
+  border-top: 1px solid #DDD;
+}
+footer {
+  opacity: .7;
+}
+footer a,
+footer a:hover {
+  color: #000;
+  text-decoration: none;
+}
+footer i {
+  padding-left: 10px;
+  padding-top: 25px;
+}
+.container {
+  width: 75%;
+  display: block;
+  margin: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+.navbar {
+  margin: 0;
+  border-radius: 0;
+  text-transform: uppercase;
+  height: 10vh;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #FFF;
+}
+.navbar-inverse .navbar-brand {
+  color: #FFF;
+}
+/***************
+HOME
+***************/
+section .container {
+  padding: 20px 0;
+}
+section.about {
+  background: #000;
+  width: 100%;
+}
+section.about p {
+  color: #FFF;
+  margin: 50px 0;
+}
+section.services {
+  background: #d9f5de;
+}
+section.services a h4 {
+  color: #748f88;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 1px 1px 1px #748f88;
+}
+section.services a:hover {
+  text-decoration: none;
+}
+section.projects .col-sm-4 {
+  margin: 25px 0;
+}
+section.projects .col-sm-4 .caption {
+  max-width: 250px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0px 0px 3px #748f88;
+}
+section.projects .col-sm-4 h5 {
+  padding: 0px 0 10px 0px;
+  text-align: center;
+  text-transform: uppercase;
+}
+section.projects a {
+  color: #000 !important;
+  text-decoration: none;
+}
+section.projects a:hover {
+  opacity: .5;
+  color: #000 !important;
+  text-decoration: none;
+}
+.img-water {
+  display: block;
+  margin: auto;
+  height: 90vh;
+  width: auto;
+  z-index: 10000;
+}
+.project .container {
+  padding: 50px 0;
+}
+.project img {
+  float: right;
+}

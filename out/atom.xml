@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Imity.io</title>
+	<link href="http://imity.io/atom.xml" rel="self"/>
+	<link href="http://imity.io"/>
+	<updated>2015-08-29T09:14:17.606Z</updated>
+	<id>http://imity.io</id>
+	<author>
+		<name>IMITY LTD</name>
+		<email>prox@imity.io</email>
+	</author>
+
+	
+</feed>
