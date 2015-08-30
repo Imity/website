@@ -3,7 +3,7 @@ layout: 'project'
 ---
 
 <h2>Second Foundation</h2>
-<p class="title">Studio Practice</p>
+<p class="title">Research Group</p>
 
 <img src="/images/secondfoundation.jpg" class="img-project">
 

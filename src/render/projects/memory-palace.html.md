@@ -2,10 +2,15 @@
 layout: 'project'
 ---
 
-## Memory Palace ##  
+<h2>Memory Palace</h2>
+<p class="title">Studio Practice</p>
+ 
 
-The Memory Palace is a virtual reality environment, produced by Kei Kreutler and Ben Vickers for an alternative system that seeks to merge online virtual reality platforms with the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci), for the expressed purpose of enhancing, ensuring ownership and terraforming the scope of distributed collective memory.
+<img src="/images/memorypalace.jpg" class="img-project">
 
+The Memory Palace is a virtual reality environment, produced by Kei Kreutler and Ben Vickers, for an alternative system that seeks to merge online virtual reality platforms with the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci), for the expressed purpose of enhancing, ensuring ownership and terraforming the scope of distributed collective memory.
+
+In July 2015, a personal, guided walkthrough of the Memory Palace was presented at Space Caviar's [RAM House](http://www.spacecaviar.net/projects/ram-house/), installed at Museo the d'Arte Contemporanea di Villa Croce in Genova, Italy. This prototype is accessible online through [Janus VR](http://www.janusvr.com/): on the top floor, west side of the Bit Tower hotel. The accompanying text follows below.
 
 *We live in an age in which we outsource our memories to vast warehouse complexes in the desert, archiving our past on platters of aluminium or glass and ceramic substrate.*
 
