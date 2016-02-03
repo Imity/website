@@ -19,11 +19,11 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Imity.io"
+			title: "Kei Kreutler"
 
 			# The website description (for SEO)
 			description: """
-					Imity LTD is a research and consultancy company working at the intersection of art, technology and speculative, networked design.
+					Kei Kreutler works at the intersection of art, technology and speculative, networked design.
 				"""
 
 			# The website keywords (for SEO) separated by commas
@@ -32,10 +32,10 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "IMITY LTD"
+			author: "ourmachine"
 
 			# The website author's email
-			email: "prox@imity.io"
+			email: "kei@ourmachine.net"
 
 			# Styles
 			styles: [

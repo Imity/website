@@ -1,12 +1,135 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirect</title>
-		<meta http-equiv="REFRESH" content="0; url=/projects/affectivekit">
-		<link rel="canonical" href="/projects/affectivekit" />
-	</head>
-	<body>
-		This page has moved. You will be automatically redirected to its new location. If you aren't forwarded to the new page, <a href="/projects/affectivekit">click here</a>.
-		<script>document.location.href = "/projects/affectivekit"</script>
-	</body>
+<html lang="en">
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		 More info: h5bp.com/i/378 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<!-- Our site title and description -->
+	<title>Kei Kreutler</title>
+	<meta name="description" content="Kei Kreutler works at the intersection of art, technology and speculative, networked design." />
+	<meta name="keywords" content="virtual reality, augmented reality, quantified self, alternative communities, network, grassroots, future, deep future, web design, web development, lines in the sand, extinction, otherkin, blockchain, mapping, open source, research" />
+	<meta name="author" content="ourmachine" />
+
+	<!-- Output DocPad produced meta elements -->
+	<meta name="generator" content="DocPad v6.78.3" />
+
+	<!-- Mobile viewport optimized: h5bp.com/viewport -->
+	<meta name="viewport" content="width=device-width" />
+
+	<!-- Icons -->
+		<link rel="shortcut icon" href="/images/favicon.png">
+
+	<!-- Shims: IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Styles -->
+	<style >html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}</style><link  rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,latin-ext" /><link  rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" /><link  rel="stylesheet" href="/styles/twitter-bootstrap.css" /><link  rel="stylesheet" href="/styles/style.css" />
+</head>
+<body>
+
+	<!-- Menu -->
+	<div class="navbar">
+		<a name="about"></a>
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">KEIKREUTLER.CC</a>
+			</div>
+			<div class="navbar-collapse collapse pull-right">
+				<ul class="nav navbar-nav">
+					<a class="navbar-brand" href="/">PROJECTS</a>
+					<!--<li>
+						<a href="/projects" property="dc:title">
+							Projects
+						</a>
+					</li>
+					<li>
+						<a href="/about" property="dc:title">
+							About
+						</a>
+					</li>-->
+				</ul>
+			</div><!--/.navbar-collapse -->
+		</div>
+	</div>
+
+
+		<!-- Content -->
+		<section id="content" class="content project">
+			<!-- Content -->
+			<div class="container">
+				<p><h2>AffectiveKit</h2></p>
+<p class="title">Studio Practice</p>
+
+<p><img src="/images/affectivekit.jpg" class="img-project"></p>
+<p><em>UNDER CONSTRUCTION</em></p>
+<p>An online portal for rethinking the advent of quantified self terminology and technologies, soon to expand to a pseudonym studio for performance work and IoT sound experiments.</p>
+<p><a href="http://affectivek.it" target="_blank">Visit Affectivek.it</a><br><a href="http://twitter.com/affectivekit" target="_blank">@affectivekit</a></p>
+
+			</div>
+		</section>
+
+	<!-- Scripts -->
+	<script >(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage && console && console.log && true);
+if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data && data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();</script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script><script defer="defer"  src="/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"></script><script defer="defer"  src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.1.0/isotope.pkgd.min.js"></script><script defer="defer"  src="/scripts/isotope.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
 </html>

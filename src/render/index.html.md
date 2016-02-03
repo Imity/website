@@ -7,22 +7,28 @@ layout: 'main'
 	<div class="row">
 		<div class="col-sm-3">
 			<p>
-				Imity LTD is a UK-based research and consultancy company working at the intersection of art, technology and speculative, networked design.
+				Kei Kreutler is an artist, researcher and consultant focusing on networked practices for distributed communities, or something like that.
 			</p>
 			<p>
-				Consultancy services include designing for the web and decentralised applications, advising organisations on workflow and communication systems, and managing open source development.
+				Consultancy services include designing and development for the web, online mapping and decentralised applications, advising organisations on minimal open source governance structures, and guiding open source development.
 			</p>
 			<p>
-				Research focuses on emergent fields, from blockchain technologies to virtual reality environments for distributed communities, developed through iterative projects as part of Kei Kreutler's studio practice.
+				Research focuses on emergent fields, from social blockchain technologies to virtual reality environments, developed through iterative projects as part of her studio practice.
 			</p>
 		</div>
 		<div class="col-sm-3 col-sm-offset-6" id="current-projects">
 			<p>
-				*Consultancy*  
+				*Core*  
 				[unMonastery](/projects/unmonastery)  
+				[Second Foundation](/projects/second-foundation)  
+				[Open Source Observatory](/projects/open-source-observatory)  
+			</p>
+			<p>	
+				*Web Development*  
 				[EXTINCT.LY](/projects/extinctly)  
 				[TransforMap](/projects/transformap)  
-				[Second Foundation](/projects/second-foundation)  
+				[Transformation Marathon](http://radio.serpentinegalleries.org/)  
+				[SatNOGS](https://db.satnogs.org/)  
 			</p>
 			<p>	
 				*Studio Practice*  
@@ -30,9 +36,6 @@ layout: 'main'
 				[Memory Palace](/projects/memory-palace)  
 				[Questio.nl](/projects/questionl)  
 				[AffectiveKit](/projects/affectivekit)  
-			</p>
-			<p>
-				[CV](/cv)
 			</p>
 			<p>
 				<a href="https://twitter.com/keikreutler" target="_blank"><i class="fa fa-twitter"></i></a>
