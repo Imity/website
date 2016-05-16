@@ -49,13 +49,13 @@ layout: 'project'
   unMonastery is a way to radically re-vision distributed communities during a time of environmental, infrastructural, and economic volatility.
 </p>
 <p>
-  Interweaving the history of monasticism and hackerspace design patterns, the social innovation project is in the process of building a network of long-term and outward-facing cooperative living spaces to cultivate service-oriented, meaningful work as a means of both personal and collective resilience.
+  Interweaving the history of monasticism and hackerspace design patterns, the initiative is in the process of building a network of long-term and outward-facing cooperative living spaces to cultivate service-oriented, meaningful work as a means of both personal and collective resilience.
 </p>
 <p>
-  For nearly two years, Kei Kreutler has worked to establish unMonastery Test Lab co-living sites in <a href="http://matera.unmonastery.org">Matera, Italy</a> and <a href="http://athens.unmonastery.org">Athens, Greece</a> to support and work with the surrounding community, as well as contributed to the production a library of documentation, tools, templates and reflection on the present and possible futures of living together, known as the <a href="http://unmonastery.org/bios">unMonastery BIOS</a>.
+  For nearly two years, Kei Kreutler has worked to establish unMonastery Test Lab co-living sites in <a href="http://matera.unmonastery.org">Matera, Italy</a> and <a href="http://athens.unmonastery.org">Athens, Greece</a> to support and work with the surrounding community, as well as contributed to the production a library of documentation, tools, templates and reflection on the present and possible futures of living together, known as the <a href="http://unmonastery.org/bios">unMonastery <em>BIOS</em></a>. She is known, in vernacular, as the in-house Experimental Researcher, as well as advises on technical and legal issues.
 </p>
 <p>
-  Working toward establishing a long-term, larger scale residence in 2017, the unMonastery frames the possibility of an open source monastic order as a foundation for solidarity through adaptive, chimeric networks and sustainable mutual aid. The project welcomes <a href="http://unmonastery.org/participate">participation</a>.
+  Working toward establishing a long-term, larger scale residence in 2017, the unMonastery frames the possibility of what a contemporary monastic order may look like, as a foundation for solidarity through adaptive, chimeric networks and sustainable mutual aid. The initiative welcomes <a href="http://unmonastery.org/participate">participation</a>.
 </p>
 
 <p>
