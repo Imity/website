@@ -28,6 +28,16 @@ body {
   -webkit-animation: breathing 5s ease-out infinite normal;
   animation: breathing 5s ease-out infinite normal;
 }
+#sigil-practice {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+  height: 250px;
+  opacity: 1;
+  -webkit-animation: breathing 5s ease-out infinite normal;
+  animation: breathing 5s ease-out infinite normal;
+  z-index: 3;
+}
 h1,
 h2,
 h3,
@@ -62,6 +72,9 @@ table tbody th {
   padding-right: 0;
   border-top: 10px #000 solid;
 }
+.navbar-brand {
+  text-transform: none;
+}
 .navbar-inverse {
   background: transparent;
   border-bottom: none;
@@ -77,12 +90,11 @@ table tbody th {
 /***************
 HOME
 ***************/
+#landing {
+  padding: 0 15px;
+}
 #landing .row {
   max-width: 450px;
-}
-#landing h4,
-#landing h5 {
-  text-transform: uppercase;
 }
 #landing h1,
 #landing h2,
@@ -95,6 +107,11 @@ HOME
 #landing h2 {
   margin-bottom: 50px;
 }
+#landing h3,
+#landing h4,
+#landing h5 {
+  text-transform: uppercase;
+}
 #landing #contact-info {
   display: none;
 }
@@ -103,49 +120,29 @@ HOME
   margin-bottom: 10px;
   font-size: 12px;
 }
+#landing #contact-info a {
+  color: #ccc;
+}
+.projects h1,
+.projects h2,
+.projects h3,
+.projects h4,
+.projects h5,
+.projects h6 {
+  color: #748f88;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+.projects a {
+  color: #ccc;
+  font-weight: 700;
+}
+.projects .details {
+  font-size: 14px;
+  color: #aaa;
+}
 section .container {
   padding: 20px 0;
-}
-section.about {
-  background: #000;
-  width: 100%;
-}
-section.about p {
-  color: #FFF;
-  margin: 50px 0;
-}
-section.services a h4 {
-  color: #000;
-  text-transform: uppercase;
-  text-align: center;
-}
-section.services a:hover {
-  text-decoration: none;
-}
-section.projects .col-sm-4 {
-  margin: 25px 0;
-}
-section.projects .col-sm-4 .caption {
-  max-width: 250px;
-  display: block;
-  margin: 0 auto;
-  border-bottom: 3px #000 solid;
-  overflow: hidden;
-}
-section.projects .col-sm-4 h5 {
-  padding: 0px 0 0px 0px;
-  text-align: center;
-  font-weight: 500;
-  text-transform: uppercase;
-}
-section.projects a {
-  color: #000;
-  text-decoration: none;
-}
-section.projects a:hover {
-  opacity: .5;
-  color: #000;
-  text-decoration: none;
 }
 .project h2 {
   margin-top: 0;
@@ -258,6 +255,24 @@ Animation
     transform: scale(0.8);
   }
 }
-.active {
-  color: #ccc !important;
+#practice form {
+  display: block;
+  margin: 50px auto;
+  width: 200px;
+  text-align: center;
+}
+#practice form .form-control {
+  font-family: 'Proza Libre', sans-serif;
+  text-transform: uppercase;
+  background: #000;
+  border: none;
+  text-align: center;
+  color: #576093;
+}
+#practice form button {
+  background: transparent;
+  color: #748f88;
+  border: none;
+  border-radius: 0;
+  text-transform: uppercase;
 }

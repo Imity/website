@@ -35,43 +35,28 @@
 <body>
 
 	<!-- Menu -->
-	<div class="navbar">
-		<a name="about"></a>
+	<div class="navbar navbar-inverse">
 		<div class="container">
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<a class="navbar-brand" href="/"><i class="fa fa-circle-o-notch"></i></a>
-			</div>
-			<div class="navbar-collapse collapse pull-right">
-				<ul class="nav navbar-nav">
-					<a class="navbar-brand" href="/"></a>
-					<!--<li>
-						<a href="/projects" property="dc:title">
-							Projects
-						</a>
-					</li>
-					<li>
-						<a href="/about" property="dc:title">
-							About
-						</a>
-					</li>-->
-				</ul>
-			</div><!--/.navbar-collapse -->
-		</div>
+				<a class="navbar-brand" href="/"><i class="fa fa-circle-o-notch"></i> &nbsp;&nbsp;Kei Kreutler</a>
+		<div class="pull-right">
+			<ul class="nav navbar-nav">
+				<a class="navbar-brand" href="/"></a>
+				<li>
+					<a href="/projects" property="dc:title">
+						Projects
+					</a>
+				</li>
+			</ul>
+		</div><!--/.navbar-collapse -->
 	</div>
 
-
+	<!-- Content -->
+	<section id="content" class="content project">
 		<!-- Content -->
-		<section id="content" class="content project">
-			<!-- Content -->
-			<div class="container">
-				<%- @content %>
-			</div>
-		</section>
+		<div class="container">
+			<%- @content %>
+		</div>
+	</section>
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>

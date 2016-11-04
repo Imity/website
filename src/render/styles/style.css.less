@@ -31,6 +31,18 @@ body {
     animation: breathing 5s ease-out infinite normal;
 }
 
+#sigil-practice {
+	display: block;
+	margin: 0 auto;
+	width: 250px;
+	height: 250px;
+	opacity: 1;
+    -webkit-animation: breathing 5s ease-out infinite normal;
+    animation: breathing 5s ease-out infinite normal;
+    z-index: 3;
+}
+
+
 h1,h2,h3,h4,h5,h6, p{
 	color: #ccc;
 }
@@ -68,6 +80,10 @@ table {
 	border-top: 10px #000 solid;
 }
 
+.navbar-brand {
+	text-transform: none;
+}
+
 .navbar-inverse {
     background: transparent;
     border-bottom: none;
@@ -82,22 +98,25 @@ table {
 .navbar-inverse .navbar-brand:focus { 
 	color: #748f88;
 }
+
+
 /***************
 HOME
 ***************/
 
 #landing {
+	padding: 0 15px;
 	.row {
 		max-width: 450px;
-	}
-	h4,h5 {
-		text-transform: uppercase;
 	}
 	h1,h2,h3,h4,h5,h6 {
 		color: #748f88;
 	}
 	h2 {
 		margin-bottom: 50px;
+	}
+	h3,h4,h5 {
+		text-transform: uppercase;
 	}
 	#contact-info {
 		display: none;
@@ -106,64 +125,31 @@ HOME
 			margin-bottom: 10px;
 			font-size: 12px;
 		}
+		a {
+			color: #ccc;
+		}
 	}
-
 }
 
+.projects {
+	h1,h2,h3,h4,h5,h6 {
+		color: #748f88;
+		text-transform: uppercase;
+		margin-bottom: 50px;
+	}
+	a {
+		color: #ccc;
+		font-weight: 700;
+	}
+	.details {
+		font-size: 14px;
+		color: #aaa;
+	}
+}
 
 section {
 	.container {
 		padding: 20px 0;
-	}
-}
-section.about {
-	background: #000;
-	width: 100%;
-	p {
-		color: #FFF;
-		margin: 50px 0;
-	}
-}
-section.services {
-	a {
-		h4 {
-			color: #000; //#748f88;
-			text-transform: uppercase;
-			text-align: center;
-			//text-shadow: 1px 1px 1px #748f88;
-		}
-	}
-	a:hover {
-		text-decoration: none;
-	}
-}
-section.projects {
-	.col-sm-4 {
-		margin: 25px 0;
-		img {
-		}
-		.caption {
-			max-width: 250px;
-			display: block;
-			margin: 0 auto;
-			border-bottom: 3px #000 solid;
-			overflow: hidden;
-		}
-		h5 {
-			padding: 0px 0 0px 0px;
-			text-align: center;
-			font-weight: 500;
-			text-transform: uppercase;
-		}
-	}
-	a {
-		color: #000;
-		text-decoration: none;
-	}
-	a:hover {
-		opacity: .5;
-		color: #000;
-		text-decoration: none;
 	}
 }
 
@@ -288,6 +274,26 @@ Animation
   }
 }
 
-.active {
-	color: #ccc !important;
+#practice {
+	form {
+		display: block;
+		margin: 50px auto;
+		width: 200px;
+		text-align: center;
+		.form-control {
+			font-family: 'Proza Libre', sans-serif;
+			text-transform: uppercase;
+			background: #000;
+			border: none;
+			text-align: center;
+			color: #576093;
+		}
+		button {
+			background: transparent;
+			color: #748f88;
+			border: none;
+			border-radius: 0;
+			text-transform: uppercase;
+		}
+	}
 }

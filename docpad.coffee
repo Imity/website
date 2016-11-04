@@ -50,8 +50,6 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"
 				"/vendor/twitter-bootstrap/dist/js/bootstrap.min.js"
-				"//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.1.0/isotope.pkgd.min.js"
-				"/scripts/isotope.js"
 				"/scripts/script.js"
 			]
 
