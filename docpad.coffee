@@ -23,7 +23,7 @@ docpadConfig = {
 
 			# The website description (for SEO)
 			description: """
-					Kei Kreutler works at the intersection of art, technology and speculative, networked design.
+					Links in the sand.
 				"""
 
 			# The website keywords (for SEO) separated by commas
@@ -32,14 +32,14 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "ourmachine"
+			author: "Kei Kreutler"
 
 			# The website author's email
 			email: "kei@ourmachine.net"
 
 			# Styles
 			styles: [
-				'//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic&subset=latin,latin-ext'
+				"//fonts.googleapis.com/css?family=Proza+Libre"
 				"//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
 				"/styles/twitter-bootstrap.css"
 				"/styles/style.css"

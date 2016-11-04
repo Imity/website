@@ -3,18 +3,21 @@ layout: 'project'
 ---
 
 <h2>Kei Kreutler</h2>
-<p class="title">Director of Imity LTD  
-	<a href="://keikreutler.cc">keikreutler.cc</a>  
+<p>
+<a href="://keikreutler.cc">keikreutler.cc</a>  
 </p>
+
+<p>&nbsp;</p>
 
 *Education*
 
-2008-2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Liberal Arts (Visual Art, Philosophy, and Computer Science), Sarah Lawrence College, Bronxville, NY. 3.95 GPA.
+2008-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Liberal Arts (Visual Art, Philosophy, and Computer Science), Sarah Lawrence College, Bronxville, NY. 3.95 GPA.
   
 <p>&nbsp;</p>
 
 *Public Programs*
 
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sweet Talk: The Achatic Rites](http://sweet-talk.me/), Participant, Nottingham, October.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Market Uncertainty, Panelist, transmediale, Berlin, DE, February.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Re-examining global ports," Session Facilitator, transmediale, Berlin, DE, February.    
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“unMonastery and the Possible Future(s) of Living Together”, presenter, *The Long Progress Bar*, Lighthouse Arts, Brighton, UK, 3 September.  
@@ -45,17 +48,17 @@ layout: 'project'
 *Projects*
 
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Forever Alpha](http://foreveralpha.club), Coordinator, Berlin, DE: An Experiental Platform for biohacking and P2P learning.  
-2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unMonastery](http://unmonastery.org), Coordinator: A place-based initiative rethinking monasticism and hackerspaces to prototype a network of spaces and residences throughout Europe.  
-2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Source Observatory](http://opensourceobservatory.org), Founder, Berlin, DE and Athens, GR: Astronomy clubs and infrastructure for the observation of satellites, spacecraft, and space junk.  
+2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unMonastery](http://unmonastery.org), Coordinator, A place-based initiative rethinking monasticism and hackerspaces to prototype a network of spaces and residences throughout Europe.  
+2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Source Observatory](http://opensourceobservatory.org), Founder, Berlin, DE and Athens, GR: Gatherings, narratives and infrastructure for the observation of satellites, spacecraft, and space junk.  
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Second Foundation](http://secondfoundation.systems), Co-Founder, London, UK and Berlin, DE: Event-based school exploring cybernetic pedagogies inspired by new media artist Roy Ascott's Groundcourse.
 
 <p>&nbsp;</p>
 
 *Professional Experience*
 
+2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platform Developer, Digital Programmes, Serpentine Galleries, London, UK.  
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end Developer, Libre Space Foundation, Athens, GR.  
-2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer and Community Things, TransforMap, Berlin, DE.  
-2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web and Concept Developer, Digital Programmes, Serpentine Galleries, London, UK.  
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer, TransforMap, Berlin, DE.  
 2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editorial Fellow, [Rhizome](http://rhizome.org), New York, NY.  
 2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Membership Manager, SculptureCenter, Queens, NY.  
 2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database Development Intern, Marina Abramovic, New York, NY.  

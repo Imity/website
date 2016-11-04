@@ -11,35 +11,43 @@ a:visited {
   color: #748f88;
 }
 body {
-  font-family: 'Open Sans';
+  font-family: 'Proza Libre', sans-serif;
+  background: url(/images/trans.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#sigil {
+  position: absolute;
+  bottom: 45px;
+  right: 12%;
+  height: 100px;
+  width: 100px;
+  opacity: 0.2;
+  -webkit-animation: breathing 5s ease-out infinite normal;
+  animation: breathing 5s ease-out infinite normal;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: #ccc;
 }
 p {
-  font-size: 13px;
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 16px;
+  margin-bottom: 25px;
 }
 ul {
-  font-size: 13px;
-}
-body#main {
-  background-image: url('/images/water_running.gif');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  font-size: 16px;
 }
 table tfoot th,
 table tbody th {
   border-top: 1px solid #DDD;
-}
-footer {
-  height: 75px;
-}
-footer a,
-footer a:hover {
-  color: #000;
-  text-decoration: none;
-}
-footer i {
-  padding-left: 10px;
-  padding-top: 25px;
 }
 .container {
   width: 75%;
@@ -49,36 +57,51 @@ footer i {
   padding-right: 0;
 }
 .navbar {
-  margin: 0;
   border-radius: 0;
   text-transform: uppercase;
   padding-right: 0;
   border-top: 10px #000 solid;
 }
-.navbar-brand {
-  padding-right: 0;
-}
-.navbar-collapse {
-  padding: 0;
+.navbar-inverse {
+  background: transparent;
+  border-bottom: none;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #FFF;
-  padding-right: 0;
+  color: #748f88;
 }
-.navbar-inverse .navbar-nav > li {
-  padding-right: 0;
-}
-.navbar-inverse .navbar-brand {
-  color: #FFF;
-}
-.nav > li > a {
-  padding: 10px 0px 10px 10px;
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-brand:focus {
+  color: #748f88;
 }
 /***************
 HOME
 ***************/
-#current-projects {
-  text-align: right;
+#landing .row {
+  max-width: 450px;
+}
+#landing h4,
+#landing h5 {
+  text-transform: uppercase;
+}
+#landing h1,
+#landing h2,
+#landing h3,
+#landing h4,
+#landing h5,
+#landing h6 {
+  color: #748f88;
+}
+#landing h2 {
+  margin-bottom: 50px;
+}
+#landing #contact-info {
+  display: none;
+}
+#landing #contact-info p {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 12px;
 }
 section .container {
   padding: 20px 0;
@@ -106,12 +129,13 @@ section.projects .col-sm-4 .caption {
   max-width: 250px;
   display: block;
   margin: 0 auto;
-  border-bottom: 5px #000 solid;
+  border-bottom: 3px #000 solid;
   overflow: hidden;
 }
 section.projects .col-sm-4 h5 {
-  padding: 0px 0 10px 0px;
+  padding: 0px 0 0px 0px;
   text-align: center;
+  font-weight: 500;
   text-transform: uppercase;
 }
 section.projects a {
@@ -122,13 +146,6 @@ section.projects a:hover {
   opacity: .5;
   color: #000;
   text-decoration: none;
-}
-.img-water {
-  display: block;
-  margin: auto;
-  height: 90vh;
-  width: auto;
-  z-index: 10000;
 }
 .project h2 {
   margin-top: 0;
@@ -197,4 +214,50 @@ Project slide decks
 .controls a:hover {
   color: #000;
   text-decoration: none;
+}
+/***************
+Animation
+***************/
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  25% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  100% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  25% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  100% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+.active {
+  color: #ccc !important;
 }

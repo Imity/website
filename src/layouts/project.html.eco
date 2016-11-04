@@ -22,7 +22,7 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<!-- Icons -->
-		<link rel="shortcut icon" href="/images/favicon.png">
+		<link rel="shortcut icon" href="/images/icon.png">
 
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -44,11 +44,11 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="/">IMITY</a>
+				<a class="navbar-brand" href="/"><i class="fa fa-circle-o-notch"></i></a>
 			</div>
 			<div class="navbar-collapse collapse pull-right">
 				<ul class="nav navbar-nav">
-					<a class="navbar-brand" href="/">PROJECTS</a>
+					<a class="navbar-brand" href="/"></a>
 					<!--<li>
 						<a href="/projects" property="dc:title">
 							Projects

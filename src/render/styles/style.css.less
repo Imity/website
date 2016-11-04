@@ -1,8 +1,8 @@
+@import "mixins.less";
 
 a, a:link {
 	cursor: pointer;
 	color: #748f88;
-	//color: #000;
 	font-weight: 500;
 }
 a:hover, a:active, a:visited {
@@ -12,22 +12,37 @@ a:hover, a:active, a:visited {
 
 
 body {
-	font-family: 'Open Sans';
+	font-family: 'Proza Libre', sans-serif;
+	background: url(/images/trans.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#sigil {
+	position: absolute;
+	bottom: 45px;
+	right: 12%;
+	height: 100px;
+	width: 100px;
+	opacity: 0.2;
+    -webkit-animation: breathing 5s ease-out infinite normal;
+    animation: breathing 5s ease-out infinite normal;
+}
+
+h1,h2,h3,h4,h5,h6, p{
+	color: #ccc;
 }
 
 p {
-	font-size: 13px;
+	font-family: 'Proza Libre', sans-serif;
+	font-size: 16px;
+	margin-bottom: 25px;
 }
 
 ul {
-	font-size: 13px;
-}
-
-body#main {
-    background-image: url('/images/water_running.gif');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center; 	
+	font-size: 16px;
 }
 
 table {
@@ -35,19 +50,6 @@ table {
 		th {
 			border-top: 1px solid #DDD;
 		}
-	}
-}
-footer {
-	//background: url("/images/footer.jpg") no-repeat right top;
-	//height: 150px;
-	height: 75px;
-	a, a:hover {
-		color: #000;
-		text-decoration: none;
-	}
-	i {
-		padding-left: 10px;
-		padding-top: 25px;
 	}
 }
 
@@ -60,38 +62,55 @@ footer {
 }
 
 .navbar {
-	margin: 0;
 	border-radius: 0;
 	text-transform: uppercase;
 	padding-right: 0;
 	border-top: 10px #000 solid;
 }
-.navbar-brand {
-	padding-right: 0;
-}
-.navbar-collapse {
-	padding: 0;
-}
-.navbar-inverse .navbar-nav > li > a {
-	color: #FFF;
-	padding-right: 0;
-}
-.navbar-inverse .navbar-nav > li {
-	padding-right: 0;	
-}
-.navbar-inverse .navbar-brand {
-	color: #FFF;
-}
-.nav > li > a {
-	padding: 10px 0px 10px 10px;
+
+.navbar-inverse {
+    background: transparent;
+    border-bottom: none;
 }
 
+.navbar-inverse .navbar-nav > li > a {
+	color: #748f88;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-brand:focus { 
+	color: #748f88;
+}
 /***************
 HOME
 ***************/
-#current-projects {
-	text-align: right;
+
+#landing {
+	.row {
+		max-width: 450px;
+	}
+	h4,h5 {
+		text-transform: uppercase;
+	}
+	h1,h2,h3,h4,h5,h6 {
+		color: #748f88;
+	}
+	h2 {
+		margin-bottom: 50px;
+	}
+	#contact-info {
+		display: none;
+		p {
+			margin-top: 15px;
+			margin-bottom: 10px;
+			font-size: 12px;
+		}
+	}
+
 }
+
+
 section {
 	.container {
 		padding: 20px 0;
@@ -106,7 +125,6 @@ section.about {
 	}
 }
 section.services {
-	// background: #d9f5de;
 	a {
 		h4 {
 			color: #000; //#748f88;
@@ -128,12 +146,13 @@ section.projects {
 			max-width: 250px;
 			display: block;
 			margin: 0 auto;
-			border-bottom: 5px #000 solid;
+			border-bottom: 3px #000 solid;
 			overflow: hidden;
 		}
 		h5 {
-			padding: 0px 0 10px 0px;
+			padding: 0px 0 0px 0px;
 			text-align: center;
+			font-weight: 500;
 			text-transform: uppercase;
 		}
 	}
@@ -146,13 +165,6 @@ section.projects {
 		color: #000;
 		text-decoration: none;
 	}
-}
-.img-water {
-	display: block;
-	margin: auto;
-	height: 90vh;
-	width: auto;
-	z-index: 10000;
 }
 
 .project {
@@ -222,4 +234,60 @@ Project slide decks
 	}
 	float:right;
 	margin-top: 15px;
+}
+
+/***************
+Animation
+***************/
+
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  25% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  100% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  25% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  100% {
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+
+.active {
+	color: #ccc !important;
 }
