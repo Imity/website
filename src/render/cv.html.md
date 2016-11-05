@@ -2,24 +2,22 @@
 layout: 'project'
 ---
 
-<h2>Kei Kreutler</h2>
-<p>
-<a href="://keikreutler.cc">keikreutler.cc</a>  
-</p>
-
-<p>&nbsp;</p>
-
 *Education*
 
-2008-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Liberal Arts (Visual Art, Philosophy, and Computer Science), Sarah Lawrence College, Bronxville, NY. 3.95 GPA.
+2008-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Liberal Arts (Visual Art, Philosophy, Poetry and Computer Science)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sarah Lawrence College, Bronxville, NY. 3.95 GPA.
   
 <p>&nbsp;</p>
 
 *Public Programs*
 
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissonant Reality and the Method of Locii (forthcoming), Virtual Reality Facilitator, Auto Italia South East, London, December.  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["The Blockchain: Change everything forever"](https://blog.p2pfoundation.net/the-blockchain-change-everything-forever/2016/10/05), Interviewee, video, Furtherfield and Digital Catapult.  
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interplanetary Database Foundation](https://ipdb.foundation), Caretaker, Berlin, DE, October.    
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sweet Talk: The Achatic Rites](http://sweet-talk.me/), Participant, Nottingham, October.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Market Uncertainty, Panelist, transmediale, Berlin, DE, February.  
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Re-examining global ports," Session Facilitator, transmediale, Berlin, DE, February.    
+2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Re-examining global ports," Session Facilitator, transmediale, Berlin, DE, February.  
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Second Foundation at The Goethe Institute](http://www.spacestudios.org.uk/art-technology/second-foundation-at-the-goethe-institute/), Organiser and Facilitator, Goethe Institut, London, UK, October.   
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“unMonastery and the Possible Future(s) of Living Together”, presenter, *The Long Progress Bar*, Lighthouse Arts, Brighton, UK, 3 September.  
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“1-5 Futures Workshop”, facilitator, *The Long Progress Bar*, Lighthouse Arts, Brighton, UK, 4 September.  
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Second Foundation: Inaugural reading group”, facilitator, The White Building, London, UK, 26 August.  
@@ -29,7 +27,7 @@ layout: 'project'
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“unMonastery: Scaling community-led networks”, Spatialities of Co-Creation, presenter, Royal Geographical Society Annual International Conference, 27 August.  
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“The Story of unMonastery”, presenter, Next Matera, 13 April.  
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[OpenTechSchool Matera](http://twitter.com/ots_matera), initiator, unMonastery Matera, March-July.  
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unMonastery Matera, resident, February-May.
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unMonastery Matera, resident, February-May.  
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TRANSVALUE, Group performance, Fitness Gallery, NY, NY.
 
 
@@ -48,7 +46,7 @@ layout: 'project'
 *Projects*
 
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Forever Alpha](http://foreveralpha.club), Coordinator, Berlin, DE: An Experiental Platform for biohacking and P2P learning.  
-2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unMonastery](http://unmonastery.org), Coordinator, A place-based initiative rethinking monasticism and hackerspaces to prototype a network of spaces and residences throughout Europe.  
+2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unMonastery](http://unmonastery.org), Coordinator: A place-based initiative rethinking monasticism and hackerspaces to prototype a network of spaces throughout Europe.  
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Source Observatory](http://opensourceobservatory.org), Founder, Berlin, DE and Athens, GR: Gatherings, narratives and infrastructure for the observation of satellites, spacecraft, and space junk.  
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Second Foundation](http://secondfoundation.systems), Co-Founder, London, UK and Berlin, DE: Event-based school exploring cybernetic pedagogies inspired by new media artist Roy Ascott's Groundcourse.
 
@@ -56,12 +54,12 @@ layout: 'project'
 
 *Professional Experience*
 
-2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platform Developer, Digital Programmes, Serpentine Galleries, London, UK.  
-2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end Developer, Libre Space Foundation, Athens, GR.  
-2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer, TransforMap, Berlin, DE.  
-2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editorial Fellow, [Rhizome](http://rhizome.org), New York, NY.  
-2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Membership Manager, SculptureCenter, Queens, NY.  
-2013-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Database Development Intern, Marina Abramovic, New York, NY.  
-2012-2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education and Visitor Services Assistant, MoMA PS1, Queens, NY.  
-2011-2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative Services Intern, TIME Inc., New York, NY.  
-2011-2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Media Studies and Computer Science, Sarah Lawrence College, Bronxville, NY.
+2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platform Developer, Digital Programmes, Serpentine Galleries, London, UK.  
+2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-end Developer, Libre Space Foundation, Athens, GR.  
+2015-16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer, TransforMap, Berlin, DE.  
+2013-14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Editorial Fellow, [Rhizome](http://rhizome.org), New York, NY.  
+2013-14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Membership Manager, SculptureCenter, Queens, NY.  
+2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Archives and Database Intern, Marina Abramovic, New York, NY.  
+2012-13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Education and Visitor Services Assistant, MoMA PS1, Queens, NY.  
+2011-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creative Services Intern, TIME Inc., New York, NY.  
+2011-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teaching Assistant, Media Studies and Computer Science, Sarah Lawrence College, Bronxville, NY.

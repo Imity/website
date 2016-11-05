@@ -20,7 +20,9 @@ behaviours developed through collective improvisation within a set of
 constraints led to new imaginations of social relations and an explosion
 of the ethos of individualism.
 
-On August 26 at the [White Building](http://thewhitebuilding.org.uk/), Claire Tolan and Kei Kreutler hosted the inaugural meeting of Second Foundation, a distributed group focused on exploring and reconfiguring cybernetic and collective pedagogies, inspired by Groundcourse. They will continue the chance explorations through regular meetups in Berlin this coming winter.
+In August 2016 at the [White Building](http://thewhitebuilding.org.uk/), Claire Tolan and Kei Kreutler hosted the inaugural meeting of Second Foundation, a distributed group focused on exploring and reconfiguring cybernetic and collective pedagogies, inspired by Groundcourse. In October that year, the 
+
+They will continue the chance explorations through regular meetups in Berlin this coming winter.
 
 <p>
 	<a href="http://secondfoundation.systems" target="_blank">Visit secondfoundation.systems</a><br>
