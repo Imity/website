@@ -19,11 +19,11 @@ body {
   background-size: cover;
 }
 #sigil {
-  position: absolute;
-  bottom: 45px;
-  right: 12%;
-  height: 100px;
-  width: 100px;
+  position: fixed;
+  bottom: 30px;
+  right: 40px;
+  height: 75px;
+  width: 75px;
   opacity: 0.2;
   -webkit-animation: breathing 5s ease-out infinite normal;
   animation: breathing 5s ease-out infinite normal;
@@ -92,6 +92,7 @@ HOME
 ***************/
 #landing {
   padding: 0 15px;
+  margin-bottom: 50px;
 }
 #landing .row {
   max-width: 450px;
@@ -276,3 +277,9 @@ Animation
   border-radius: 0;
   text-transform: uppercase;
 }
+@media only screen and (max-width: 40em) {
+  #sigil {
+    display: none;
+  }
+}
+/* max-width 640px, mobile-only styles, use when QAing mobile issues */

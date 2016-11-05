@@ -44,9 +44,9 @@
 	<section id="content" class="content">
 		<%- @content %>
 	</section>
-
-	<img id="sigil" src="/images/kk_sm.png">
-
+	<a href="/projects/practice">
+		<img id="sigil" src="/images/kk_sm.png">
+	</a>
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
 </body>
