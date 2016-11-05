@@ -3,7 +3,16 @@ layout: 'project'
 ---
 
 <h2>unMonastery</h2>
-<p class="title">Coordinator, Researcher, and Technical Support</p>
+<p class="title">Coordinator, Researcher and Digital Development</p>
+
+<img class="circle" src="/images/unmonastery_logo.png">
+
+<p>
+  unMonastery is a distributed network and a way to re-vision resilient communities during a time of environmental, infrastructural, and economic volatility.
+</p>
+<p>
+  Interweaving the history of monasticism and hackerspace design patterns, the initiative is in the process of building a network of long-term and outward-facing cooperative living spaces to cultivate service-oriented, meaningful work as a means of both personal and collective resilience.
+</p>
 
 <div id="unmonastery" class="carousel slide" data-ride="carousel" data-interval="false">
   <!-- Indicators
@@ -17,9 +26,6 @@ layout: 'project'
   <div class="carousel-inner" role="listbox">
     <div class="item active">
       <img class="img-responsive" src="/images/unmonastery_matera_02.jpg" alt="unMonastery Matera">
-    </div>
-    <div class="item">
-      <img src="/images/unmonastery_logo.png" alt="unMonastery Matera">
     </div>
     <div class="item">
       <img src="/images/unmonastery_transmediale_02.jpg" alt="unMonastery at Transmediale">
@@ -46,16 +52,13 @@ layout: 'project'
 </div>
 
 <p>
-  unMonastery is a way to radically re-vision distributed communities during a time of environmental, infrastructural, and economic volatility.
+  For over two years, I have worked to support unMonastery living sites in <a href="http://matera.unmonastery.org">Matera, Italy</a> and <a href="http://athens.unmonastery.org">Athens, Greece</a>, as well as contributed to the production of a library of documentation, tools, templates and reflection on the present and possible futures of living together, known as the <a href="http://unmonastery.org/bios">unMonastery <em>BIOS</em></a>.
 </p>
 <p>
-  Interweaving the history of monasticism and hackerspace design patterns, the initiative is in the process of building a network of long-term and outward-facing cooperative living spaces to cultivate service-oriented, meaningful work as a means of both personal and collective resilience.
+  Currently, I coordinate public programmes in Berlin, lead digital development and research the history of monasticism. I act as the unMonastery contact for the <a href="https://ipdb.foundation">Interplanetary Database Foundation</a> Caretakers association.
 </p>
 <p>
-  For nearly two years, Kei Kreutler has worked to establish unMonastery Test Lab co-living sites in <a href="http://matera.unmonastery.org">Matera, Italy</a> and <a href="http://athens.unmonastery.org">Athens, Greece</a> to support and work with the surrounding community, as well as contributed to the production a library of documentation, tools, templates and reflection on the present and possible futures of living together, known as the <a href="http://unmonastery.org/bios">unMonastery <em>BIOS</em></a>. She is known, in vernacular, as the in-house Experimental Researcher, as well as advises on technical and legal issues.
-</p>
-<p>
-  Working toward establishing a long-term, larger scale residence in 2017, the unMonastery frames the possibility of what a contemporary monastic order may look like, as a foundation for solidarity through adaptive, chimeric networks and sustainable mutual aid. The initiative welcomes <a href="http://unmonastery.org/participate">participation</a>.
+  Working toward harmonising a long-term residence in Kokkinopilos, Greece in 2017, the unMonastery frames the possibility of what a contemporary monastic order may look like, as a foundation for solidarity through adaptive, chimeric networks and sustainable mutual aid. The initiative welcomes <a href="http://unmonastery.org/participate">participation</a>.
 </p>
 
 <p>

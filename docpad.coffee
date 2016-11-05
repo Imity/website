@@ -28,7 +28,7 @@ docpadConfig = {
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-					virtual reality, augmented reality, quantified self, alternative communities, network, grassroots, future, deep future, web design, web development, lines in the sand, extinction, otherkin, blockchain, mapping, open source, research
+					virtual reality, augmented reality, quantified self, alternative communities, network, grassroots, future, deep future, web design, web development, lines in the sand, extinction, otherkin, blockchain, mapping, open source, research, quantified self, astrology, satellites, thick mapping, digital humanities, mapping, technical experiments, unmonastery, extinct.ly, transformlab, open source observatory, satnogs, second foundation,
 				"""
 
 			# The website author's name

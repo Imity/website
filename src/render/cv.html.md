@@ -1,5 +1,5 @@
 ---
-layout: 'project'
+layout: 'cv'
 ---
 
 *Education*
@@ -36,7 +36,7 @@ layout: 'project'
 *Exhibitions and Residencies*
 
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collision Residency, Southbank Centre, London UK.  
-2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Memory Palace*, Solo exhibition in partnership with Space Caviar at Villa, RAM House at Villa Croce Museum of Contemporary Art, Genova, IT.  
+2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Memory Palace*, Event in partnership with Space Caviar at Villa, RAM House at Villa Croce Museum of Contemporary Art, Genova, IT.  
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Staying with the Trouble*](http://stayingwiththetrouble.tumblr.com), group exhibition, The White Building, London, UK, 26-28 June.  
 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artist-in-Residence, #Stacktivism Program, The White Building Centre for Art and Technology, Space Studios, London, UK, March-August.  
 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anexact Geometries, Group exhibition, New York, NY, USA.
@@ -47,7 +47,7 @@ layout: 'project'
 
 2016-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Forever Alpha](http://foreveralpha.club), Coordinator, Berlin, DE: An Experiental Platform for biohacking and P2P learning.  
 2014-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unMonastery](http://unmonastery.org), Coordinator: A place-based initiative rethinking monasticism and hackerspaces to prototype a network of spaces throughout Europe.  
-2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Source Observatory](http://opensourceobservatory.org), Founder, Berlin, DE and Athens, GR: Gatherings, narratives and infrastructure for the observation of satellites, spacecraft, and space junk.  
+2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Open Source Observatory](http://openspaceobservatory.org), Coordinator: Gatherings, narratives and infrastructure for the observation of satellites, spacecraft, and space junk.  
 2015-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Second Foundation](http://secondfoundation.systems), Co-Founder, London, UK and Berlin, DE: Event-based school exploring cybernetic pedagogies inspired by new media artist Roy Ascott's Groundcourse.
 
 <p>&nbsp;</p>

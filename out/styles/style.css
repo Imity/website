@@ -55,6 +55,8 @@ p {
 }
 ul {
   font-size: 16px;
+  color: #ccc;
+  margin-bottom: 25px;
 }
 table tfoot th,
 table tbody th {
@@ -139,12 +141,15 @@ HOME
   color: #ccc;
   font-weight: 700;
 }
-.projects .details {
+.details {
   font-size: 14px;
   color: #aaa;
 }
 section .container {
   padding: 20px 0;
+}
+.project .row {
+  max-width: 450px;
 }
 .project h2 {
   margin-top: 0;
@@ -169,18 +174,17 @@ section .container {
 Project slide decks
 **************/
 .carousel {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   width: auto;
-  float: right;
-  margin: 0 0 50px 50px;
+  margin: 50px 0;
 }
 .carousel img {
   display: block;
   margin: 0 auto;
 }
 .carousel-item {
-  max-width: 100%;
+  width: 100%;
   height: auto;
   width: auto\9;
   /* ie8 */
@@ -207,11 +211,11 @@ Project slide decks
 }
 .controls {
   float: right;
-  margin-top: 15px;
+  margin: 10px 0;
 }
 .controls a,
 .controls a:hover {
-  color: #000;
+  color: #ccc;
   text-decoration: none;
 }
 /***************
@@ -282,5 +286,15 @@ Animation
   #sigil {
     display: none;
   }
+  .navbar .container {
+    width: 90%;
+  }
+  .navbar-brand {
+    padding-left: 0;
+  }
 }
 /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+.circle {
+  border-radius: 25px;
+  max-width: 200px;
+}

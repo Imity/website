@@ -54,9 +54,7 @@
 	<!-- Content -->
 	<section id="content" class="content project">
 		<div class="container">
-			<div class="row">
 				<%- @content %>
-			</div>
 		</div>
 	</section>
 

@@ -3,24 +3,22 @@ layout: 'project'
 ---
 
 <h2>OSO</h2>
-<p class="title">Founder</p>
+<p class="title">Initiator, Research Group</p>
 
-<img src="/images/oso.jpg" class="img-project">
+<img class="circle" src="/images/oso.jpg">
 
-Open Source Observatory is a distributed network of sites and gatherings for the observation of satellites, spacecraft and space junk.
+Open Space Observatory is a distributed network of sites and gatherings for the observation of satellites, spacecraft and space junk.
 
-Founded in late 2015 and drawing inspiration from the Association of Autonomous Astronauts, OSO looks toward building a satellite skywatch and a way to come together: bringing out infrastructure for observation to distant fields and connecting unlikely locations. The initiative includes:
+The initiative includes the opening of three permanent satellite observatory sites in 2017, the support and development of open source hardware and software working in collaboration with the [Libre Space Foundation](https://librespacefoundation.org/), and the design of a modular observatory that can be built easily with affordable or found materials and protect equipment in different climates.
 
-*  Gatherings for satellite watching, trading info, infrastructure and sometimes snacks.
-*  The opening of two permanent observatory sites in late 2016.
-*  The support and development of open source hardware and software for space observation.
-*  The design of a modular observatory that can be built easily with affordable or found materials and protect equipment in different climates.
-*  An online forum and dead drop boxes for discussions on artificial satellites—from their history and hardware to their singular aesthetic.
-*  Reading groups for speculation and creation of commons-oriented space initiatives.
+Additionally, the OSO researches the deep history of astronomical architectures, speculative trajectories of their future use and the potential for collective narratives of satellite constellations.
 
-Gatherings wll be ongoing from the spring at Schillerpalais, and two permanent OSO sites will launch in late 2016 in Berlin, DE and Athens, GR, through a community with the [Libre Space Foundation](https://librespacefoundation.org/).
+We are currently working with two major UK institutions to install permanent observatories and host participatory workshops on cultural and technical narratives of satellites in 2017-18.
+
+Drawing from research for my [PROX.IMITY](/projects/proximity) project, I initiated the OSO concept, and I coordinate the initiative's design, development and related workshops. Collaborators include [studiofolder.it](http://www.studiofolder.it/), [Fabi Borges](https://catahistorias.wordpress.com/) and the [Global Ports Authority](http://gpaworldports.org) project.
 
 
 
-<a href="http://opensourceobservatory.org" target="_blank">Visit opensourceobservatory.org</a>  
+
+<a href="http://openspaceobservatory.org" target="_blank">Visit openspaceobservatory.org</a>  
 <a href="https://github.com/opensourceobservatory/opensourceobservatory.github.io/wiki" target="_blank">Visit OSO Wiki</a>

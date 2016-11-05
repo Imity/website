@@ -5,6 +5,10 @@ layout: 'project'
 <h2>PROX.IMITY.IO (Distant Early Warning)</h2>
 <p class="title">Studio Practice</p>
 
+PROX.IMITY.IO (Distant Early Warning) is a website - currently under reconstruction - gathering the first stage of research for works on astrological narratives of modern satellite technology and its mundane, personal, and geopolitical ramifications. Taking an experimental, ficitonal approach to the present, this project maps satellites visible in the sky over London back onto the Earth and begins speculating on what narratives they could trace.
+
+The project's research focuses on the historical origins, uses, and relevance of Western astronomy and astrology, alongside the development of space technologies and aesthetics. The website page gathered notes, reflections and archival material from this process.
+
 <div id="proximity" class="carousel slide" data-ride="carousel" data-interval="false">
   <!-- Indicators
   <ol class="carousel-indicators">
@@ -41,10 +45,6 @@ layout: 'project'
   </div>
 </div>
 
-PROX.IMITY.IO (Distant Early Warning) is a website - currently under reconstruction - gathering the first stage of research for works on astrological narratives of modern satellite technology and its mundane, personal, and geopolitical ramifications. Taking an experimental, ficitonal approach to the present, this project maps satellites visible in the sky over London back onto the Earth and begins speculating on what narratives they could trace.
-
-The project's research focuses on the historical origins, uses, and relevance of Western astronomy and astrology, alongside the development of space technologies and aesthetics. The Fragments page gathers notes, reflections and archival material from this process.
-
-As an end to the INFRA_SPECTION Residency programme at Space Studios, London, the White Building exhibited PROX.IMITY.IO research materials in spring 2015 as part of the group exhibition [*Staying with the Trouble*](http://stayingwiththetrouble.tumblr.com). An ebook and film related to the project are currently in development. The culmination of the first stage of the project resulted in an installation, interactive site, and workshop. 
+As an end to the INFRA_SPECTION Residency programme at Space Studios, London, the White Building exhibited PROX.IMITY.IO research materials in spring 2015 as part of the group exhibition [*Staying with the Trouble*](http://stayingwiththetrouble.tumblr.com). The culmination of the first stage of the project resulted in an installation, interactive site, and workshop, and the project continues with the collaborative work of the [OSO](/projects/open-space-observatory) initiative.
 
 See the [*Staying with the Trouble*](http://stayingwiththetrouble.tumblr.com) site for further documentation

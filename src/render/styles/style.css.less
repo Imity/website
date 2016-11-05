@@ -54,6 +54,8 @@ p {
 
 ul {
 	font-size: 16px;
+	color: #ccc;
+	margin-bottom: 25px;
 }
 
 table {
@@ -141,10 +143,11 @@ HOME
 		color: #ccc;
 		font-weight: 700;
 	}
-	.details {
-		font-size: 14px;
-		color: #aaa;
-	}
+}
+
+.details {
+	font-size: 14px;
+	color: #aaa;
 }
 
 section {
@@ -154,6 +157,9 @@ section {
 }
 
 .project {
+	.row {
+		max-width: 450px;
+	}
 	h2 {
 		margin-top: 0;
 		padding-top: 0;
@@ -177,20 +183,17 @@ section {
 Project slide decks
 **************/
 .carousel {
-	max-width: 100%;
-	//max-width: 600px;
+	width: 100%;
 	height: auto;
 	width: auto;
-	float: right;
-	margin: 0 0 50px 50px;
+	margin: 50px 0;
 	img {
 		display: block;
 		margin: 0 auto;
-		//min-height: 400px;
 	}
 }
 .carousel-item {
-	max-width: 100%;
+	width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
 	img {
@@ -215,11 +218,11 @@ Project slide decks
 
 .controls {
 	a, a:hover {
-		color: #000;
+		color: #ccc;
 		text-decoration: none;
 	}
 	float:right;
-	margin-top: 15px;
+	margin: 10px 0;
 }
 
 /***************
@@ -302,4 +305,17 @@ Animation
 	#sigil {
 		display: none;
 	}
+	.navbar {
+		.container {
+			width: 90%;
+		}		
+	}
+	.navbar-brand {
+		padding-left: 0;
+	}
  } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
+
+.circle {
+	border-radius: 25px;
+	max-width: 200px;
+}
