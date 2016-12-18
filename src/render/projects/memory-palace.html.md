@@ -10,7 +10,7 @@ layout: 'project'
 
 The Memory Palace is a virtual reality environment, initially developed by myself and Ben Vickers, as an alternative system that seeks to merge online virtual reality platforms with the [method of loci](https://en.wikipedia.org/wiki/Method_of_loci), for the expressed purpose of enhancing, ensuring ownership and terraforming the scope of distributed collective memory.
 
-In July 2015, a personal, guided walkthrough of the Memory Palace was presented at Space Caviar's [RAM House](http://www.spacecaviar.net/projects/ram-house/), installed at Museo the d'Arte Contemporanea di Villa Croce in Genova, Italy. This prototype is accessible online through [Janus VR](http://www.janusvr.com/): on the top floor, west side of the Bit Tower hotel.
+In July 2015, a guided walkthrough of the Memory Palace was presented at Space Caviar's [RAM House](http://www.spacecaviar.net/projects/ram-house/), installed at Museo the d'Arte Contemporanea di Villa Croce in Genova, Italy. This prototype is accessible online through [Janus VR](http://www.janusvr.com/): on the top floor, west side of the Bit Tower hotel.
 
 The Method of Locii is an ongoing durational project in development for collective experimentation with virtual reality. The virtual environment can be used as daily practice and ritual which accumulates objects-of-memory, as well as in workshops, LARPs and online communities.
 

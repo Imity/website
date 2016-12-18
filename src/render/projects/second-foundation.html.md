@@ -3,7 +3,7 @@ layout: 'project'
 ---
 
 <h2>Second Foundation</h2>
-<p class="title">Co-Initiator, Research Group (In Stealth Mode)</p>
+<p class="title">Co-Initiator, Research Group</p>
 
 <img src="/images/secondfoundation.jpg" class="circle">
 

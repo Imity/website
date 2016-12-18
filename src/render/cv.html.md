@@ -11,9 +11,7 @@ layout: 'cv'
 
 *Public Programs*
 
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dissonant Reality and the Method of Locii (forthcoming), Virtual Reality Facilitator, Auto Italia South East, London, December.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;["The Blockchain: Change everything forever"](https://blog.p2pfoundation.net/the-blockchain-change-everything-forever/2016/10/05), Interviewee, video, Furtherfield and Digital Catapult.  
-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interplanetary Database Foundation](https://ipdb.foundation), Caretaker, Berlin, DE, October.    
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sweet Talk: The Achatic Rites](http://sweet-talk.me/), Participant, Nottingham, October.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Market Uncertainty, Panelist, transmediale, Berlin, DE, February.  
 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Re-examining global ports," Session Facilitator, transmediale, Berlin, DE, February.  

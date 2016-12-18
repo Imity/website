@@ -55,9 +55,6 @@ layout: 'project'
   For over two years, I have worked to support unMonastery living sites in <a href="http://matera.unmonastery.org">Matera, Italy</a> and <a href="http://athens.unmonastery.org">Athens, Greece</a>, as well as contributed to the production of a library of documentation, tools, templates and reflection on the present and possible futures of living together, known as the <a href="http://unmonastery.org/bios">unMonastery <em>BIOS</em></a>.
 </p>
 <p>
-  Currently, I coordinate public programmes in Berlin, lead digital development and research the history of monasticism. I act as the unMonastery contact for the <a href="https://ipdb.foundation">Interplanetary Database Foundation</a> Caretakers association.
-</p>
-<p>
   Working toward harmonising a long-term residence in Kokkinopilos, Greece in 2017, the unMonastery frames the possibility of what a contemporary monastic order may look like, as a foundation for solidarity through adaptive, chimeric networks and sustainable mutual aid. The initiative welcomes <a href="http://unmonastery.org/participate">participation</a>.
 </p>
 
